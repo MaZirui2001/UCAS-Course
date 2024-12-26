@@ -10,3 +10,9 @@
 [submodule "Introduction-to-Dialectics-of-Nature"]
 	path = Introduction-to-Dialectics-of-Nature
 	url = https://github.com/MaZirui2001/Introduction-to-Dialectics-of-Nature.git
+[submodule "Academic-Morality-and-Writing-Norms"]
+	path = Academic-Morality-and-Writing-Norms
+	url = https://github.com/MaZirui2001/Academic-Morality-and-Writing-Norms.git
+[submodule "Academic-Morality-and-Writing-Norms---General-Introduction"]
+	path = Academic-Morality-and-Writing-Norms---General-Introduction
+	url = https://github.com/MaZirui2001/Academic-Morality-and-Writing-Norms---General-Introduction.git
