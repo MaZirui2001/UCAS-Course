@@ -4,3 +4,9 @@
 [submodule "Financial-Statement-Analysis-of-Decisions"]
 	path = Financial-Statement-Analysis-of-Decisions
 	url = https://github.com/MaZirui2001/Financial-Statement-Analysis-of-Decisions.git
+[submodule "Theory-and-Practice-of-Socialism-with-Chinese-Characteristics-in-the-New-Era"]
+	path = Theory-and-Practice-of-Socialism-with-Chinese-Characteristics-in-the-New-Era
+	url = https://github.com/MaZirui2001/Theory-and-Practice-of-Socialism-with-Chinese-Characteristics-in-the-New-Era.git
+[submodule "Introduction-to-Dialectics-of-Nature"]
+	path = Introduction-to-Dialectics-of-Nature
+	url = https://github.com/MaZirui2001/Introduction-to-Dialectics-of-Nature.git
