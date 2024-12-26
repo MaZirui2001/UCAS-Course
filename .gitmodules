@@ -16,3 +16,6 @@
 [submodule "Academic-Morality-and-Writing-Norms---General-Introduction"]
 	path = Academic-Morality-and-Writing-Norms---General-Introduction
 	url = https://github.com/MaZirui2001/Academic-Morality-and-Writing-Norms---General-Introduction.git
+[submodule "VLSI-Testing-and-Design-for-Testability"]
+	path = VLSI-Testing-and-Design-for-Testability
+	url = https://github.com/MaZirui2001/VLSI-Testing-and-Design-for-Testability.git
