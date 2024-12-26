@@ -19,3 +19,6 @@
 [submodule "VLSI-Testing-and-Design-for-Testability"]
 	path = VLSI-Testing-and-Design-for-Testability
 	url = https://github.com/MaZirui2001/VLSI-Testing-and-Design-for-Testability.git
+[submodule "VLSI-Design-Basics"]
+	path = VLSI-Design-Basics
+	url = https://github.com/MaZirui2001/VLSI-Design-Basics.git
