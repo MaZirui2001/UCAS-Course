@@ -22,3 +22,6 @@
 [submodule "VLSI-Design-Basics"]
 	path = VLSI-Design-Basics
 	url = https://github.com/MaZirui2001/VLSI-Design-Basics.git
+[submodule "Image-Processing"]
+	path = Image-Processing
+	url = https://github.com/MaZirui2001/Image-Processing.git
