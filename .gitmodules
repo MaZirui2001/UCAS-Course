@@ -25,3 +25,6 @@
 [submodule "Image-Processing"]
 	path = Image-Processing
 	url = https://github.com/MaZirui2001/Image-Processing.git
+[submodule "Parallel-Processing"]
+	path = Parallel-Processing
+	url = https://github.com/MaZirui2001/Parallel-Processing.git
