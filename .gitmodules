@@ -28,3 +28,6 @@
 [submodule "Parallel-Processing"]
 	path = Parallel-Processing
 	url = https://github.com/MaZirui2001/Parallel-Processing.git
+[submodule "Computer-Systems-Architecture"]
+	path = Computer-Systems-Architecture
+	url = https://github.com/MaZirui2001/Computer-Systems-Architecture.git
