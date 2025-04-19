@@ -31,3 +31,6 @@
 [submodule "Computer-Systems-Architecture"]
 	path = Computer-Systems-Architecture
 	url = https://github.com/MaZirui2001/Computer-Systems-Architecture.git
+[submodule "Marxism-and-the-Present-World"]
+	path = Marxism-and-the-Present-World
+	url = https://github.com/MaZirui2001/Marxism-and-the-Present-World.git
